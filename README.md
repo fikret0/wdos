@@ -1,5 +1,5 @@
 # wdos
-türkçe bir ddos scripti.
+türkçe bir dos scripti.
 
 ## Kullanım
 
